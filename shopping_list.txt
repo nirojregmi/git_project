@@ -1,0 +1,11 @@
+apple
+banana
+mango
+beer
+coke
+shampoo
+vegetables
+milk
+joghurt
+
+
