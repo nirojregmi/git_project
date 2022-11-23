@@ -7,5 +7,6 @@ shampoo
 vegetables
 milk
 joghurt
+juice
 
 
