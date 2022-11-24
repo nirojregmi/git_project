@@ -1,2 +1,2 @@
 Hello this is the story about learning the usage of git and github.
-we will learn many new things about github.
+Lets learn new things about github.
