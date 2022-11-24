@@ -1,1 +1,3 @@
-"Greetings from my computer"
+
+"Greetings from my computer and GitHub"
+
